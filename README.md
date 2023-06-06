@@ -32,7 +32,7 @@
 
 **Основные инструменты:** `Python`, `Matplotlib`, `Scikit_learn`
 
-**Направление деятельнсоти:** `Machine Learning`, `Classification`
+**Направление деятельности:** `Machine Learning`, `Classification`
 
 # ОБЩИЙ ВЫВОД
 
